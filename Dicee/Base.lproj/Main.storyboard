@@ -68,10 +68,9 @@
                                 <rect key="frame" x="0.0" y="508" width="414" height="388"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vn0-ub-OH5">
-                                        <rect key="frame" x="142.66666666666666" y="164" width="128.99999999999997" height="60"/>
+                                        <rect key="frame" x="175" y="164" width="64" height="60"/>
                                         <color key="backgroundColor" red="0.1305405271440068" green="0.18734867436317254" blue="0.61482788705583757" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="129" id="eeH-HD-Af0"/>
                                             <constraint firstAttribute="height" constant="60" id="xwF-n3-5Nn"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="40"/>
